@@ -1,0 +1,26 @@
+{
+  "name": "pusher-presence",
+  "version": "1.0.0",
+  "description": "An example chat app demonstrating the Pusher user presence API.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Veitch",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.6.0",
+    "body-parser": "1.18.2",
+    "dotenv": "4.0.0",
+    "ejs": "2.5.7",
+    "express": "4.15.2",
+    "pusher": "1.5.1",
+    "serve-favicon": "2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "4.13.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.8.0"
+  }
+}
