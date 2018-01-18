@@ -1,6 +1,8 @@
 # Pusher Presence
 An example chat app demonstrating the Pusher user presence API.
 
+![screenshot](https://user-images.githubusercontent.com/12876929/35081243-9012444c-fbd8-11e7-970f-8b1c1f129e8a.png)
+
 ## Local Setup
 - `$ git clone git@github.com:rveitch/pusher-presence.git`
 - `$ npm install`
